@@ -15,14 +15,14 @@ Vue.js를 기반으로 제작된 커플들을 위한 커뮤니티 사이트 입�
 ### 스크린샷
 
 <div>
-<img src="https://user-images.githubusercontent.com/51149996/73611999-31b98000-462b-11ea-9207-7eced59f5764.jpg" width="33%">
-<img src="https://user-images.githubusercontent.com/51149996/73612001-32521680-462b-11ea-9991-7fc94aa53383.jpg" width="33%">
-<img src="https://user-images.githubusercontent.com/51149996/73612002-32eaad00-462b-11ea-988d-dfc5508580c3.jpg" width="33%">
+<img src="https://user-images.githubusercontent.com/51149996/73611999-31b98000-462b-11ea-9207-7eced59f5764.jpg" width="32%">
+<img src="https://user-images.githubusercontent.com/51149996/73612001-32521680-462b-11ea-9991-7fc94aa53383.jpg" width="32%">
+<img src="https://user-images.githubusercontent.com/51149996/73612002-32eaad00-462b-11ea-988d-dfc5508580c3.jpg" width="32%">
 </div>
 <div>
-<img src="https://user-images.githubusercontent.com/51149996/73612005-33834380-462b-11ea-9647-59a597139ea7.jpg" width="33%">
-<img src="https://user-images.githubusercontent.com/51149996/73612006-34b47080-462b-11ea-8a50-932628538731.jpg" width="33%">
-<img src="https://user-images.githubusercontent.com/51149996/73612007-35e59d80-462b-11ea-8980-93bb378cb292.jpg" width="33%">
+<img src="https://user-images.githubusercontent.com/51149996/73612005-33834380-462b-11ea-9647-59a597139ea7.jpg" width="32%">
+<img src="https://user-images.githubusercontent.com/51149996/73612006-34b47080-462b-11ea-8a50-932628538731.jpg" width="32%">
+<img src="https://user-images.githubusercontent.com/51149996/73612007-35e59d80-462b-11ea-8980-93bb378cb292.jpg" width="32%">
 </div>
 
 ## 팀원
