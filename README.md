@@ -25,6 +25,7 @@ Vue.js를 기반으로 제작된 커플들을 위한 커뮤니티 사이트 입�
 <img src="https://user-images.githubusercontent.com/51149996/73612007-35e59d80-462b-11ea-8980-93bb378cb292.jpg" width="32%">
 </div>
 
+
 ## 팀원
 ||Web|Android|Server|Design|
 |:------:|:----:|:----:|:-----:|:----:|
