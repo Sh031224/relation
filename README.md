@@ -1,17 +1,19 @@
 # 천생연분
-💕 커플들을 위한 커뮤니티
+
+💕Community Service for Couples
 
 ## 소개
+
 Vue.js를 기반으로 제작된 커플들을 위한 커뮤니티 사이트 입니다.
 커플들만의 익명 커뮤니티가 있어 서로서로 다양한 정보를 주고 받을 수 있습니다.
 
 ### 주요 기능
 
-  - 💬 채팅 시스템
-  - 📆 D-DAY
-  - ✍ 커뮤니티 시스템
-  - 🔧 반응형 웹
-  
+- 💬 채팅 시스템
+- 📆 D-DAY
+- ✍ 커뮤니티 시스템
+- 🔧 반응형 웹
+
 ### 스크린샷
 
 <div>
@@ -25,14 +27,15 @@ Vue.js를 기반으로 제작된 커플들을 위한 커뮤니티 사이트 입�
 <img src="https://user-images.githubusercontent.com/51149996/73612007-35e59d80-462b-11ea-8980-93bb378cb292.jpg" width="32%">
 </div>
 
-
 ## 팀원
-||Web|Android|Server|Design|
-|:------:|:----:|:----:|:-----:|:----:|
-|Developer|차승호|김영재|최우석, 김영재|임규민|
-|Tool|Visual Studio Code|Android Studio, Visual Studio Code|Visual Studio Code|Adobe Xd,Photoshop|
+
+|           |        Web         |              Android               |       Server       |       Design       |
+| :-------: | :----------------: | :--------------------------------: | :----------------: | :----------------: |
+| Developer |       차승호       |               김영재               |   최우석, 김영재   |       임규민       |
+|   Tool    | Visual Studio Code | Android Studio, Visual Studio Code | Visual Studio Code | Adobe Xd,Photoshop |
 
 ## 정보
+
 - 제 6회 하이톤 : 새해
   - '복덩이'라는 주제로 팀원들과 함께 무박 2일로 진행하였습니다.
   - 시간관계상 웹은 디자인 없이 진행하였습니다.
